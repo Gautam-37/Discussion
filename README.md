@@ -68,6 +68,8 @@ The platform aims to solve the problems of centralized social media platforms in
 #### Core Functions
 - `create-post(content-hash)` - Create a new post and earn 10 DISC tokens
 - `moderate-post(post-id, should-remove)` - Vote on post moderation (requires 100+ DISC tokens)
+- <img width="907" height="811" alt="Screenshot 2025-07-27 222907" src="https://github.com/user-attachments/assets/5992a7e5-b005-4c9a-9c31-580cb8ef54d4" />
+
 
 #### Read-Only Functions
 - `get-post(post-id)` - Retrieve post details
